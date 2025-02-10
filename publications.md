@@ -2,6 +2,7 @@
 
 ## Journal articles
 
+1. Punselie, S., McLean, B., & Dingemanse, M. (2024). [The Anatomy of Iconicity: Cumulative Structural Analogies Underlie Objective and Subjective Measures of Iconicity](https://doi.org/10.1162/opmi_a_00162). Open Mind, 8, 1191-1212.
 1. Akita, K., McLean, B., Park, J., & Thompson, A.L. (2024). [Iconicity mediates semantic networks of sound symbolism](https://doi.org/10.1121/10.0025763). *The Journal of the Acoustical Society of America*, *155*, 2687–2697. 🧵[Summary](https://www.bonniemclean.net/news/2024-04-28-phonosemantic_maps/)
 1. McLean, B., Dunn, M., & Dingemanse, M. (2023). [Two measures are better than one: Combining iconicity ratings and guessing experiments for a more nuanced picture of iconicity in the lexicon](https://doi.org/10.1017/langcog.2023.9). *Language and Cognition,* 1-24. doi:10.1017/langcog.2023.9. 🏆 **Best PhD paper at SLE 2021** 🧵[Summary](https://www.bonniemclean.net/news/2023-04-18-iconicitymeasurespaper/) 📊 [Slides](https://osf.io/y3a2u/download)
 1. McLean, B. (2021). [Revising an implicational hierarchy for the meanings of ideophones, with special reference to Japonic](https://doi.org/10.1515/lingty-2020-2063). *Linguistic Typology*, *25*(3), 507–549. ✨ [**Shiny App**](https://bonnie-mclean.shinyapps.io/ideophonesacrossjapan-eng/)
