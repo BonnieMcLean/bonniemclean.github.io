@@ -14,4 +14,10 @@ So Sweden is well known for it's very generous parental leave, and it's true, th
 
 I tried to figure it out myself and almost had a complete mental breakdown, luckily my husband stepped in and sacrificed all his remaining, sleep-deprived brain cells and now finally, seven and a half months into my son's life, we know what the hell we are doing with our parental leave.
 
-So, for the sake of future immigrants braving the nightmare that is Swedish bureaucracy, 
+So, for the sake of future immigrants braving the nightmare that is Swedish bureaucracy, below is Swedish parental leave explained (at least as I understand it):
+
+- You get 480 days (~16 months) per child (so if you have twins you get 960 days)
+- For 390 of those days, you will receive 80% of your regular salary (these are days paid at the *sjukpenningnivå* or sickness benefit level). If you work for the state, you can get an extra 10% on top of this from your employer. So then you get 90% of your salary for those 390 days.
+- For the remaining 90 days, the compensation is at the minimum level of 180 SEK (roughly $18 US) per day
+
+
