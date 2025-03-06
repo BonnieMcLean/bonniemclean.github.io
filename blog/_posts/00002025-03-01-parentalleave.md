@@ -20,4 +20,6 @@ So, for the sake of future immigrants braving the nightmare that is Swedish bure
 - For 390 of those days, you will receive 80% of your regular salary (these are days paid at the *sjukpenningnivå* or sickness benefit level). If you work for the state, you can get an extra 10% on top of this from your employer. So then you get 90% of your salary for those 390 days.
 - For the remaining 90 days, the compensation is at the minimum level of 180 SEK (roughly $18 US) per day
 
+Sounds simple enough, but this is where it gets much more complicated. These parental leave days are available for you to use **up until the child is 12 years old**. Very few Swedes take all the days out consecutively following the birth of the child. Instead, it is much more common to save some of the days for when the child is older, so that you can use them for family holidays, for example.
 
+The problem is, the Swedish government has all these little rules around it that means if you're not paying attention you can get caught out and lose some of those days before you have a chance to use them. 
