@@ -30,3 +30,4 @@ Rating tasks and guessing experiments are pretty well established methods for pu
 
 ![](../../assets/img/iconicity/Screenshot_20250326-092648.png)
 
+There are 9 form features, which map to 7 semantic features (3 of the formal features relating to consonant, vowel, and tone weighting map to a single semantic feature for magnitude). 
