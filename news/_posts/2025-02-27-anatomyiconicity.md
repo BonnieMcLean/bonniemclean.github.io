@@ -20,6 +20,7 @@ You can find and cite the paper here:
 
 This was part of a really wonderful BA project by Stella Punselie, supervised by Mark Dingemanse, which I was lucky to be invited to collaborate on just for the final bits. The figure below (Figure 2 from the paper) shows the general idea. We combine three different measures of iconicity: two behavioural (iconicity ratings and guessing accuracies) and one analytical (Stella and Mark's analyses of structured iconic mappings in the stimuli). The stimuli in question for this study were ideophones from five languages representing four language families: Japanese (Japonic), Ewe (Kwa, Niger-Congo), Korean (Koreanic), Semai (Aslian, Austroasiatic) and Siwu (Na-Togo, Niger-Congo). 
 
-![](https://direct.mit.edu/view-large/figure/5105687 /opmi a 00162 f002.tif)
+![](https://direct.mit.edu/view-large/figure/5105687/opmia00162f002.tif)
 
 Rating tasks and guessing experiments are pretty well established methods for putting a numeric value on iconicity, but the analytical framework developed in this paper for qualitatively analysing the iconicity of ideophones is novel. 
+
