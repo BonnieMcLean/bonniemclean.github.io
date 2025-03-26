@@ -28,5 +28,5 @@ cate how measures predict (black) and inform (grey) each other.**
 
 Rating tasks and guessing experiments are pretty well established methods for putting a numeric value on iconicity, but the analytical framework developed in this paper for qualifying the iconicity of ideophones is novel. The table below, table 1 from the paper, shows how it works:
 
-![](../assets/img/iconicity/Screenshot_20250326-092648.png)
+![](../../../assets/img/iconicity/Screenshot_20250326-092648.png)
 
