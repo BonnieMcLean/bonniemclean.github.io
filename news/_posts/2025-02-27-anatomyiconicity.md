@@ -26,7 +26,7 @@ iconic form-meaning correspondences (A). This predicts it should be rated as hig
 fewer detected correspondences (C). Consistent with this, it was rated 4.8 for subjective iconicity and guessed at 80% accuracy. Arrows indi-
 cate how measures predict (black) and inform (grey) each other.**
 
-Rating tasks and guessing experiments are pretty well established methods for putting a numeric value on iconicity, but the analytical framework developed in this paper for qualitatively analysing the iconicity of ideophones is novel. The table below, table 1 from the paper, shows how it works:
+Rating tasks and guessing experiments are pretty well established methods for putting a numeric value on iconicity, but the analytical framework developed in this paper for qualifying the iconicity of ideophones is novel. The table below, table 1 from the paper, shows how it works:
 
 
 
