@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New paper - The anatomy of iconicity✨
-image: /assets/img/iconicity/guessesratingscoding2.png
+image: /assets/img/iconicity/anatomyiconicity.png
 description: > 
     Our new paper on unpicking the iconicity of ideophones is out in Open Mind! 
 sitemap: false
