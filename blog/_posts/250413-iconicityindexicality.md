@@ -10,3 +10,5 @@ tags: [iconicity, indexicality]
 excerpt_separator: <!--more-->
 ---
 It will come as no surprise to semioticians that the first word my son showed some degree of understanding was an index, and the second an icon. 
+
+<!--more-->
