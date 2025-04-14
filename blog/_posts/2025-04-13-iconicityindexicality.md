@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Iconicity versus indexicality
-image: /assets/img/iconicity/proprioceptiveiconicity.png
+image: /assets/img/iconicity/20250414_071752_0000~2.png
 description: >
   These two types of motivation in language are easily confused and conflated, but they are fundamentally very different. This post explains why.
 sitemap: false
