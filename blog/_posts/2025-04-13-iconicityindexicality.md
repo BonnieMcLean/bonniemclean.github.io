@@ -15,5 +15,7 @@ My son is now almost 9 months. He recently learnt to clap, and yesterday we figu
 
 His response was also so specific—clapping is a very deliberate, low-frequency action—that there was no question that he really understood the word he was responding to (or misunderstood, in the case of _flap_, which is still exciting, because it means he understands that words mean things, and not just any things, but _specific_ things!). This was such a contrast to our experience with his first potential, or proto, as we're calling it, word: _mamma_. He's been saying _mamma_ for a while now. It started off as babbling, but lately we're beginning to suspect that perhaps in some situations he assigns some meaning to the sounds as well, as it feels like he says _mamma_ more often when he wants me and particularly when he wants to breastfeed. However, his use of _mamma_ is still kind of vague and nebulous enough that the linguist in me has trouble calling it a word, as I'm just not confident enough that the semanticity is there yet. It's getting there though. Anyway, I wanted to talk about this and particularly to contrast our experiences with _mamma_ (vague, not sure how excited we should be yet) versus _clap/flap_ (specific and amazing!) as it's a really neat illustration of the differences between icons and indices. 
 
-I'll start with a quick recap of what an icon is, and why _clap/flap_ is one, as well as what an index is, and why _mamma_ is one, then compare and contrast the two.  
+I'll start with a quick recap of what an icon is, and why _clap/flap_ is one, as well as what an index is, and why _mamma_ is one, then compare and contrast the two...
+
+*More to come*
 
