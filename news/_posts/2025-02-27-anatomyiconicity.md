@@ -32,8 +32,8 @@ The table below, table 1 from the paper, shows how the iconicity as structure-ma
 
 There are 9 form features, which map to 7 semantic features (there are more formal than semantic features because three of the formal features relating to consonant, vowel, and tone weighting map to a single semantic feature of magnitude). Ideophones are coded first for their formal features, and then separately for their semantic features. When the formal and semantic features align as shown in the table, we consider this an instance of iconicity. I really love this analytical framework for the following reasons:
 
-1. It is very explicit about *how* exactly the ideophones are iconic. 
-2. These iconic mappings can be informed by data *independent* to the data you are studying, and created prior to seeing any of it. The iconic mappings in Table 1 were informed by prior work on ideophones by pioneers like Diedrich Westermann (for West-African ideophones), Gerard Diffloth (Southeast Asian ideophones), and Roman Jakobson (for Indo-European languages). They do not come from analysis of the ideophones in our study.
+1. It's explicit about *how* exactly a particular mapping is iconic.
+2. These iconic mappings can be informed by data *independent* to the data under study, and created prior to seeing it. The iconic mappings in Table 1 were informed by prior work on ideophones by pioneers like Diedrich Westermann (for West-African ideophones), Gerard Diffloth (Southeast Asian ideophones), and Roman Jakobson (for Indo-European languages). They do not come from analysis of the ideophones in our study.
 3. It creates *testable* hypotheses.
 4. It leaves room for revision and expansion.
 
