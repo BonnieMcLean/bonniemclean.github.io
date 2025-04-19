@@ -30,9 +30,11 @@ The table below, table 1 from the paper, shows how the iconicity as structure-ma
 
 ![](../../assets/img/iconicity/Screenshot_20250326-092648.png)
 
-There are 9 form features, which map to 7 semantic features (there are more formal than semantic features because three of the formal features relating to consonant, vowel, and tone weighting map to a single semantic feature for magnitude). Ideophones are coded first for their formal features, and then separately for their semantic features. When the formal and semantic features align as shown in the table, we consider this an instance of iconicity. I really love this analytical framework for the following reasons:
+There are 9 form features, which map to 7 semantic features (there are more formal than semantic features because three of the formal features relating to consonant, vowel, and tone weighting map to a single semantic feature of magnitude). Ideophones are coded first for their formal features, and then separately for their semantic features. When the formal and semantic features align as shown in the table, we consider this an instance of iconicity. I really love this analytical framework for the following reasons:
 
 1. It is very explicit about *how* exactly the ideophones are iconic. 
-2. The mappings can be drawn up independently and prior to looking at the data (in this case, Mark and Stella came up with the iconic mappings in Table 1 based on prior work on ideophones by pioneers like 
-3.
-4.    is very explicit about *how* exactly the ideophones are iconic, and these mappings can be decided on *before* actually looking at the data. One (very valid) criticism that has plagued the field of iconicity is that it's very easy, after the fact, to come up with ways in which a particular form-meaning mapping could be construed as iconic. 
+2. These iconic mappings can be informed by data *independent* to the data you are studying, and created prior to seeing any of it. The iconic mappings in Table 1 were informed by prior work on ideophones by pioneers like Diedrich Westermann (for West-African ideophones), Gerard Diffloth (Southeast Asian ideophones), and Roman Jakobson (for Indo-European languages). They do not come from analysis of the ideophones in our study.
+3. It creates *testable* hypotheses.
+4. It leaves room for revision and expansion.
+
+Qualitative analyses of iconicity are often criticised for being vague or *wishy-washy*, and lacking empirical grounding. After all it's very easy, after the fact, to come up with ways in which a particular form-meaning mapping could be construed as iconic. We hope to address these issues with our new approach.
