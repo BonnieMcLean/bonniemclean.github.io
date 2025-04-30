@@ -45,3 +45,7 @@ In the final section of the paper, we put our qualitative coding scheme to the t
 
 
 If you want to explore the data yourself, you can download it and code for a shiny app we created to more easily visualise the findings from the online supplementary material available at [https://doi.org/10.17605/osf.io/zpcvs](https://doi.org/10.17605/osf.io/zpcvs)
+
+## References
+
+1. Gentner, D. (1983). Structure-mapping: A theoretical framework for analogy. *Cognitive Science*, 7(2), 155–170. https://doi.org/10.1207/s15516709cog0702_3
