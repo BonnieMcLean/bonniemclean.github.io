@@ -18,7 +18,7 @@ This was part of a really wonderful BA project by Stella Punselie, supervised by
 
 The figure below (Figure 2 from the paper) shows the general idea. We combine three different measures of iconicity: two behavioural (iconicity ratings and guessing accuracies, panels B and C) and one qualitative (Stella and Mark's analyses of iconic mappings in the stimuli, which draws heavily on *Structure-Mapping theory* (Gentner, 1983), panel A). The stimuli in question for this study were ideophones from five languages representing four language families: Japanese (Japonic), Ewe (Kwa, Niger-Congo), Korean (Koreanic), Semai (Aslian, Austroasiatic) and Siwu (Na-Togo, Niger-Congo). 
 
-![](https://mitp.silverchair-cdn.com/mitp/content_public/journal/opmi/8/10.1162_opmi_a_00162/3/opmi_a_00162_f002.png?Expires=1749032754&Signature=t8hjHdoXyENJt8tgXgf9H-EdIY~sEHaPgqSKNo7hOq4UztYwiK7kKnOFwJN3B7dnY~V0W4hs2DmCxqJqEh7kscC6zY1pq-nZPY~MfvMfxy6XXqemUvZBqFuL7cVpbvaZ~-EmAinhKIf8fcvmUdR-39izv9qnBwVag0dIi~XbZm3Z~WtPA6ga4AhRuiqQ3E7QC4zbseWNhsgb3zNROAWVtrwZfujFUaw6SBkGQrEVjQHxKBJeBG96YmbdGZs2vf2eD2N8m~Xl1do2nDpqKXO3283zsInsuVn2m41uRsxX-zO4GeDDnqhCqtz1-fj8Z8rPiYL49oujxjN2VUNevQlxhQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA) **Figure 2. Overview of the triangulation method. Structure mapping grounds the notion of iconicity, ratings capture subjective form-meaning
+![](../../assets/img/iconicity/triangulationmethod.png) **Figure 2. Overview of the triangulation method. Structure mapping grounds the notion of iconicity, ratings capture subjective form-meaning
 fit, and guessability provides a baseline of guessing accuracy. For instance, Korean tuˈgɯndugɯn ‘heartbeat’ features at least three levels of
 iconic form-meaning correspondences (A). This predicts it should be rated as highly iconic (B) and should be more guessable than words with
 fewer detected correspondences (C). Consistent with this, it was rated 4.8 for subjective iconicity and guessed at 80% accuracy. Arrows indi-
@@ -41,8 +41,7 @@ Qualitative analyses of iconicity are often criticised for being vague or *wishy
 
 In the final section of the paper, we put our qualitative coding scheme to the test by asking how well it predicts the iconicity of the ideophones in our data, as reflected by their iconicity ratings and guessability in behavioural studies with naieve participants. You can read the full paper for the details, but basically our analysis reveals that our qualitative coding scheme allows us to predict the iconicity of ideophones for sound, movement, and shape fairly well, but that there are gaps in the coding scheme when it comes to predicting the iconicity of ideophones for texture and colour; identifying an important area for future research.
 
-![](https://mitp.silverchair-cdn.com/mitp/content_public/journal/opmi/8/10.1162_opmi_a_00162/3/opmi_a_00162_f006.png?Expires=1749029819&Signature=NI9k1CWd1OgY0yN-N4OA9UCZ1BTi2pjCrpF1VLfZUzKVY2FH9CFnErWMOfpBy3uQaCne2vZqoXYksPSsdS4lS6FsNUFsX7x3WNOLhxj0~CtmoFCKG86zGJNUsBfaHpSqRwNNTdyv3OlSLoxjRMmujXzwGn8Gx7461M3Zw5Sy8A8otsl3ImZ2x2pvC-ZlLfZl07zuxI1ycTrYtDmnphuNnifmophcoIsF523tXGY86yN0nIglJ24HVW~gBHAEcCb4Q2hQ2hAsqP1-nzaj~2-Xb7v27I6DQ6lkseIgo1m5-U36ExuHZAnK0-w9WpCEhRCybDXG-QnIQNg4pySfaQ~H6Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
-
+![](../../assets/img/iconicity/triangulationresults.png)
 
 If you want to explore the data yourself, you can download it and code for a shiny app we created to more easily visualise the findings from the online supplementary material available at [https://doi.org/10.17605/osf.io/zpcvs](https://doi.org/10.17605/osf.io/zpcvs)
 
