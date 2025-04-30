@@ -37,4 +37,6 @@ There are 9 form features, which map to 7 semantic features (there are more form
 3. It creates *testable* hypotheses.
 4. It leaves room for revision and expansion.
 
-Qualitative analyses of iconicity are often criticised for being vague or *wishy-washy*, and lacking empirical grounding. After all it's very easy, after the fact, to come up with ways in which a particular form-meaning mapping could be construed as iconic. We hope to address these issues with our new approach.
+Qualitative analyses of iconicity are often criticised for being vague or *wishy-washy*, and not easily falsifiable. This is partly a problem inherent to the construct of iconicity, which is by definition a matter of (subjective) construal. I believe we can acknowledge that while the only limit to iconicity is our own imaginations, we can still make empirical claims about particular form-meaning mappings being more or less iconic than others, using rigorous and falsifiable methods. This also allows us to address some of the scepticism around iconicity that has long plagued our field.
+
+In the final section of the paper, we put our qualitative coding scheme to the test by asking how well it predicts the iconicity of the ideophones in our data, as reflected by their iconicity ratings and guessability in behavioural studies with naieve participants.
