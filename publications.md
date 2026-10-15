@@ -3,12 +3,12 @@ Click on the title to go to the pdf.
 
 ## Preprints
 
-1. McLean, B., Akita, K., & Dewey, D. P. (2026, September 2). [Not just for play: fNIRS reveals complex linguistic, perceptual, and sociopragmatic functions of Japanese ideophones](https://doi.org/10.31234/osf.io/nhxmc_v2). Retrieved from osf.io/preprints/psyarxiv/nhxmc_v2
+1. McLean, B., Akita, K., & Dewey, D. P. (2026, September 2). [Not just for play: fNIRS reveals complex linguistic, perceptual, and sociopragmatic functions of Japanese ideophones](https://doi.org/10.31234/osf.io/nhxmc). *PsyArXiv Preprints*. doi: 10.31234/osf.io/nhxmc
 
 ## Journal articles
 
 1. **McLean B.**, Do Y., Thompson LA & Huisman JLA. (2026). [An expanded model for perceptual norming: insights from Japanese ideophones](https://onlinelibrary.wiley.com/doi/epdf/10.1111/tops.70064). *Topics in Cognitive Science – 2024 Elman Prize Issue Honoring Asifa Majid*: e70064.
-1. Huisman J.L.A., **McLean B.** & Wu C-H. (2025). Combined lexical and phonotactic data resolve uncertainties in the evolutionary diversification of the Japonic language family. *Journal of Language Evolution 10*(1): lzaf002.
+1. Huisman J.L.A., **McLean B.** & Wu C-H. (2025). [Combined lexical and phonotactic data resolve uncertainties in the evolutionary diversification of the Japonic language family](https://doi.org/10.1093/jole/lzaf002). *Journal of Language Evolution 10*(1): lzaf002.
 1. Punselie, S., **McLean, B.**, & Dingemanse, M. (2024). [The Anatomy of Iconicity: Cumulative Structural Analogies Underlie Objective and Subjective Measures of Iconicity](https://doi.org/10.1162/opmi_a_00162). *Open Mind*, 8, 1191-1212.
 1. Akita, K., **McLean, B.**, Park, J., & Thompson, A.L. (2024). [Iconicity mediates semantic networks of sound symbolism](https://doi.org/10.1121/10.0025763). *The Journal of the Acoustical Society of America*, *155*, 2687–2697. 🧵[Summary](https://www.bonniemclean.net/news/2024-04-28-phonosemantic_maps/)
 1. **McLean, B.**, Dunn, M., & Dingemanse, M. (2023). [Two measures are better than one: Combining iconicity ratings and guessing experiments for a more nuanced picture of iconicity in the lexicon](https://doi.org/10.1017/langcog.2023.9). *Language and Cognition,* 1-24. doi:10.1017/langcog.2023.9. 🏆 **Best PhD paper at SLE 2021** 🧵[Summary](https://www.bonniemclean.net/news/2023-04-18-iconicitymeasurespaper/) 📊 [Slides](https://osf.io/y3a2u/download)
