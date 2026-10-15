@@ -3,7 +3,7 @@ Click on the title to go to the pdf.
 
 ## Preprints
 
-1. McLean, B., Akita, K., & Dewey, D. P. (2026, September 2). [Not just for play: fNIRS reveals complex linguistic, perceptual, and sociopragmatic functions of Japanese ideophones](https://doi.org/10.31234/osf.io/nhxmc_v2). *PsyArXiv Preprints*. doi: 10.31234/osf.io/nhxmc
+1. McLean, B., Akita, K., & Dewey, D. P. (2026, September 2). [Not just for play: fNIRS reveals complex linguistic, perceptual, and sociopragmatic functions of Japanese ideophones](https://doi.org/10.31234/osf.io/nhxmc_v2). *PsyArXiv Preprints*. doi: 10.31234/osf.io/nhxmc_v2
 
 ## Journal articles
 
