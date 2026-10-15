@@ -10,7 +10,9 @@
 
 ## Book chapters
 
-1. McLean, B., & Dingemanse, M. (in press). [A multi-methods toolkit for documentary research on ideophones](https://doi.org/10.31219/osf.io/3n85v).  In Williams, J.P. (Ed), *Capturing Expressivity*. Oxford University Press. Preprint at [https://doi.org/10.31219/osf.io/3n85v](https://doi.org/10.31219/osf.io/3n85v). 
+1. McLean, B. and Motamedi, M. (2026). [A robustness approach to operationalisations of iconicity](https://doi.org/10.1093/oxfordhb/9780192849489.013.0041). In Fischer, O.,
+Akita, K., & Perniss, P. (eds.), *The Oxford Handbook of Iconicity in Language* (pp. 659–677). Oxford University Press.
+1. McLean, B., & Dingemanse, M. (2025). [A multi-methods toolkit for documentary research on ideophones](https://pure.mpg.de/pubman/item/item_3644631_1/component/file_3644632/McLean%20Dingemanse%202025%20Multi-methods%20toolkit%20for%20documentary%20research%20on%20ideophones.pdf).  In Williams, J.P. (Ed), *Capturing Expressivity: Contexts, Methods, and Techniques for Linguistic Research* (pp. 74–107). Oxford University Press.
 2.  Akita, K., & McLean, B. (2021). [Onsyootyoo-tikaku-no niti/ei-taisyoo: Imi-tizu-ni yoru kentoo](https://drive.google.com/file/d/1NhMszLjBaVynXeFuwEa2xtCih-BUd1UP/view) [A contrastive study of Japanese and English speakers’ sound-symbolic perception: A semantic-map approach]. In K. Shinohara & R. Uno (Eds.), *Zikken-ninti-gengogaku [Progress in experimental cognitive linguistics]* (pp. 165–189). Hitsuji Shobo.
 
 ## Popular science articles
